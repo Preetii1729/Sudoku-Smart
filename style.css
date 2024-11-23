@@ -75,6 +75,11 @@ button:hover {
     background-color: #cc7d98;
 }
 
+.sudoku div {
+    text-align: center;
+    font-size: 27px;
+}
+
 
 /* 
 dark colors:
